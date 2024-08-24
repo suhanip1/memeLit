@@ -1,0 +1,12 @@
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+/media
+
+# Vite/React
+node_modules/
+dist/
+
+# Environment Variables
+.env
