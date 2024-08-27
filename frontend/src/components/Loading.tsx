@@ -98,7 +98,7 @@ const Loading = () =>  {
           width: '80%',
           maxWidth: '400px',
           height: 'auto',
-          maxHeight: '200px',
+          maxHeight: '400px',
           borderRadius: '10px',
           boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
           opacity: fadeIn ? 1 : 0,

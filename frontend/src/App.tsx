@@ -1,4 +1,5 @@
 import Loading from "./components/Loading";
+import InputFileUpload from "./pages/Memify";
 import {
   BrowserRouter as Router,
   Route,
@@ -10,10 +11,10 @@ function App() {
 
   return (
     <div>
-      <div> djfdj</div>
       <Router>
         <Routes>
         <Route path="/Loading" element={<Loading />} />
+        <Route path="/upload" element={<InputFileUpload />} />
         </Routes>
       </Router>
     </div>
