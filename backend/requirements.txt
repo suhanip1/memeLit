@@ -1,0 +1,3 @@
+PyMuPDF
+groq
+assemblyai
